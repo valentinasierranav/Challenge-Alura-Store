@@ -1,5 +1,5 @@
 # Challenge-Alura-Store
-# 📊 Análisis Comparativo de Plataformas de Venta (Tiendas 1–4)
+# 📊 Análisis Comparativo de Plataformas de Venta Tiendas 1–4
 
 ## 🎯 Objetivo del Proyecto
 Este proyecto presenta un análisis comparativo de datos de cuatro plataformas de venta independientes: **Tienda 1, Tienda 2, Tienda 3 y Tienda 4**.
